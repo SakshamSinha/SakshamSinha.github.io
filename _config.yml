@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Jalpc
+description: Jack's blog,use Jekyll and github pages.
+keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+baseurl:
+url: http://www.jarrekk.com
+# url: http://127.0.0.1:4000
+img_path: /static/assets/img/blog
+
+# author
+author:
+  name: Jarrekk
+  first_name: Kun
+  last_name: Jia
+  cv: http://cv.jarrekk.com
+  email: me@jarrekk.com
+  facebook_username: jiakunnj
+  github_username: jarrekk
+  linkedin_id: jarrekk
+  avatar: /static/assets/img/landing/Jack.jpeg
+  skill_icon1:
+    - name: icon-python
+    - name: icon-shell
+  skill_icon2:
+    - name: icon-mongodb
+    - name: icon-docker
+  desc: I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.
+
+# comment
+disqus:
+  name: jalpc
+
+# analytics
+## google analytics
+ga:
+  id: UA-93473370-1
+
+go:
+  id: GTM-NHMS8GD
+
+## growingIO
+gio:
+  # id: a49d4901c7853da9
+
+## donation
+donation: on
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

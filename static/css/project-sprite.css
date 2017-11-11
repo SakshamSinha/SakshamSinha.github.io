@@ -1,0 +1,70 @@
+.sprite {
+    background-size: 300px 300px;
+    background-image: url(../img/landing/project-sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-jalpc-a {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-position: 0 0;
+}
+
+.sprite-familycode {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-position: -100px 0;
+}
+
+.sprite-imgkit {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-position: 0 -100px;
+}
+
+.sprite-jalpc {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-position: -100px -100px;
+}
+
+.sprite-leetcode {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-position: -200px 0;
+}
+
+.sprite-rsser {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-position: -200px -100px;
+}
+
+.sprite-saplatform {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-position: 0 -200px;
+}
+
+.sprite-ztool {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    background-position: -100px -200px;
+}
