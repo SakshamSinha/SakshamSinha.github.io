@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Saksham Sinha profile
+title: Saksham Sinha
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:
@@ -26,11 +26,10 @@ author:
   skill_icon2:
     - name: icon-mongodb
     - name: icon-docker
-  desc: I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.
-
+  desc: Hi there! I'm Saksham Sinha, currently a masters graduate student at the Trinity College Dublin, where I'm studying computer science concentration in Machine Learning and Computer Vision. I am advised by Prof. Aljosa Smolic from V-SENSE lab . My primary interests are in computer vision and machine learning. Currently, I am focused on doing research in Super-Resolution using Deep learning.
 # comment
 disqus:
-  name: jalpc
+  name: Resume
 
 # analytics
 ## google analytics
