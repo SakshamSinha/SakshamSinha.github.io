@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
+title: Saksham Sinha profile
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:
@@ -11,11 +11,11 @@ img_path: /static/assets/img/blog
 
 # author
 author:
-  name: Jarrekk
-  first_name: Kun
-  last_name: Jia
+  name: Saksham
+  first_name: Saksham
+  last_name: Sinha
   cv: http://cv.jarrekk.com
-  email: me@jarrekk.com
+  email: ssinha@tcd.ie
   facebook_username: jiakunnj
   github_username: jarrekk
   linkedin_id: jarrekk
