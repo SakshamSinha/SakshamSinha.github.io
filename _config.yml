@@ -34,14 +34,14 @@ disqus:
 # analytics
 ## google analytics
 ga:
-  id: UA-93473370-1
+  id: UA-109530255-1 
 
 go:
-  id: GTM-NHMS8GD
+  id: GTM-MCB46X2 
 
 ## growingIO
-gio:
-  # id: a49d4901c7853da9
+#gio:
+#  # id: a49d4901c7853da9
 
 ## donation
 donation: off
