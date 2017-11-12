@@ -6,14 +6,14 @@
   gh_user: SakshamSinha
   repo: RuralICT
   img: ruralict
-  desc: RuralICT.
+  desc: Geographic alienation is one of the main problems faced by farm producers today. The sole purpose of this project is to bridge this gap between the producers in the villages and their consumers in the towns and the cities, to help farmers boost their income by exposing their products to the free and fair competitive world. I was involved in developing solution for direct marketing of farm produce in urban market eliminating role of middle man, brokers and agents, thereby increasing rural people and farmers’ income for overall economic growth of the country. By providing web based advisory system as well as android app for the farmers, we try to break the long chains of middlemen by only letting NGOs or self-help groups act as an interface to the outside world.I worked on Spring MVC, HTML 5, JavaScript, CSS, Bootstrap, Angular JS, AJAX, Spring data JPA, JQuery, Hibernate.
 
 - name: Lokavidya
   i18n: lokavidya
   gh_user: SakshamSinha
   repo: Lokavidya
   img: lokavidya
-  desc: Lokavidya.
+  desc: Lokavidya is the platform where farmers can share information about the techniques and solutions they have for tackling critical farm & agriculture-based problems in their village to the farmers in another village. The farmers can get access to this innovation by downloading and installing the Android App from Google Play Store. The domain experts can record and share their knowledge in the form of videos to their other fellow-mates from other villages who are facing difficulties in the same area. My role was checking the feasibility, making proof of concepts (POCs), creating user stories, designing database schema and creating database for this project.
 
 #- name: IMGKit
 #  i18n: imgkit
