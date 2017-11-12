@@ -8,11 +8,11 @@
   img: ruralict
   desc: RuralICT.
 
-- name: Jalpc
-  i18n: jalpc
+- name: Lokavidya
+  i18n: lokavidya
   gh_user: SakshamSinha
   repo: Lokavidya
-  img: jalpc
+  img: lokavidya
   desc: Lokavidya.
 
 #- name: IMGKit
