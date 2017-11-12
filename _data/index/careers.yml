@@ -1,17 +1,17 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: Trinity College Dublin
+    i18n: tcd
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: Now I am a masters graduate studnet at Trinity College Dublin studing Computer Science concentrating in Machine Learning and Computer Vision.
+    i18n: tcd_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: Sept. 2017
+    i18n: tcd_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
+    detail: Msc. Computer Science - Intelligent Systems
+    i18n: tcd_job
   icon: fa-plus-square
 
 - name:
