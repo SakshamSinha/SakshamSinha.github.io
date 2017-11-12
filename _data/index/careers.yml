@@ -56,6 +56,7 @@
     i18n: university_job
   icon: fa-book
 
+
 - name:
     detail: Wipro infotech
     i18n: wipro
@@ -69,3 +70,5 @@
     detail: Industrial Intern and developed HRMS project for NABARD using PeopleSoft HCM 9.1
     i18n: wipro_job
   icon: fa-building
+
+
