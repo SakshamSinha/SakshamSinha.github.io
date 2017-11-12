@@ -22,14 +22,14 @@ author:
   avatar: /static/assets/img/landing/Jack.jpeg
   skill_icon1:
     - name: icon-python
-    - name: icon-shell
+    - name: icon-c
   skill_icon2:
-    - name: icon-mongodb
+    - name: icon-cplusplus
     - name: icon-docker
-  #desc: Nothing for now. 
+  desc: Nothing for now
 # comment
 disqus:
-  name: Resume
+  name: jalpc
 
 # analytics
 ## google analytics
