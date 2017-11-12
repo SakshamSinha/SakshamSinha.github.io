@@ -23,9 +23,11 @@ author:
   skill_icon1:
     - name: icon-python
     - name: icon-c
-  skill_icon2:
     - name: icon-cplusplus
-    - name: icon-docker
+  skill_icon2:
+    - name: icon-java
+    - name: icon-oracle
+    - name: icon-mysql
   desc: Nothing for now
 # comment
 disqus:
